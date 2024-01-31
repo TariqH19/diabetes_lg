@@ -1,6 +1,6 @@
-# Project Title
+# Diabetes Logisitic Regression
 
-A brief description of what this project does and who it's for
+A model that predicts if someone has diabetes or not
 
 ## Screenshots
 
